@@ -36,11 +36,11 @@ REST APIs • JSON • Responsive Design • UI/UX Implementation
 A personal portfolio built with **Next.js** and **Tailwind CSS**, showcasing my projects and experience.  
 *Focus:* Performance, responsiveness, and accessibility.
 
-### 🛒 [Real-Estate Landing Page](https://lumina-estate.vercel.app/)
+### 🏠 [Real-Estate Landing Page](https://lumina-estate.vercel.app/)
 Modern front-end property listing interface with **property filtering**, and **responsive layout**.  
 *Tech:* Next.js, Tailwind CSS.
 
-### 📊 [Non-Governmental Organization - NGO Website](https://icfc-ngo.vercel.app/)
+### ⛑ [Non-Governmental Organization - NGO Website](https://icfc-ngo.vercel.app/)
 Static website for ICFC - Child Care Foundation Organization built with responsive design and accessibility.  
 *Tech:* Next.js, Tailwind CSS, Framer Motion.
 
