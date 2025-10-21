@@ -20,7 +20,7 @@ I specialize in turning design concepts into responsive, interactive user experi
 HTML • CSS • JavaScript (ES6+) • TypeScript  
 
 **Frameworks & Libraries:**  
-React • Next.js • Tailwind CSS • Redux Toolkit  
+React • Next.js • Tailwind CSS • Chakra UI • Redux Toolkit  
 
 **Tools & Platforms:**  
 Git • GitHub • VS Code • Figma • Vercel • Netlify  
@@ -36,13 +36,13 @@ REST APIs • JSON • Responsive Design • UI/UX Implementation
 A personal portfolio built with **Next.js** and **Tailwind CSS**, showcasing my projects and experience.  
 *Focus:* Performance, responsiveness, and accessibility.
 
-### 🏠 [Real-Estate Landing Page](https://lumina-estate.vercel.app/)
-Modern front-end property listing interface with **property filtering**, and **responsive layout**.  
-*Tech:* Next.js, Tailwind CSS.
+### 🎨 [UI/UX Design Landing Page](https://uxpert-theta.vercel.app/)
+A modern front-end UI/UX interface crafted with a strong focus on responsive design principles and an accessible user experience, ensuring that users across all devices and abilities can interact smoothly with intuitive layouts and optimized performance.
+*Tech:* React.js, Tailwind CSS.
 
-### ⛑ [Non-Governmental Organization - NGO Website](https://icfc-ngo.vercel.app/)
-Static website for ICFC - Child Care Foundation Organization built with responsive design and accessibility.  
-*Tech:* Next.js, Tailwind CSS, Framer Motion.
+### 🤖 [AI-powered SaaS Platform](https://convertly-nu.vercel.app/)
+A fully responsive static website designed for an AI-powered SaaS platform, built with modern front-end technologies to ensure seamless performance across all devices and enhanced accessibility for an inclusive user experience. 
+*Tech:* React.js, Radix UI, Tailwind CSS, Framer Motion.
 
 ---
 
