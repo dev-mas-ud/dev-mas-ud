@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Masud
 
-I'm a **Front-End Developer** focused on crafting clean, accessible, and performant web applications.  
-I specialize in turning design concepts into responsive, interactive user experiences using modern web technologies.
+I'm a **Frontend Developer** who specializes in turning **Figma designs into pixel-perfect, fast React/Next.js apps**.  
+I focus on crafting clean, accessible, and high-performance user interfaces using modern web technologies.
 
 ---
 
 ## 🧩 About Me
 
-- Passionate about creating pixel-perfect, user-friendly interfaces.  
-- Constantly learning and exploring new front-end tools and frameworks.  
-- Strong understanding of component-based architecture, UI/UX principles, and responsive design.  
-- I enjoy collaborating with designers and back-end developers to build seamless digital products.  
+- I convert Figma designs into responsive, production-ready React interfaces.  
+- Passionate about clean UI, UX precision, and smooth developer handoff.  
+- Strong understanding of component-based architecture, accessibility, and responsive design.  
+- I love collaborating with designers and startups to bring ideas to life — visually and technically.  
 
 ---
 
@@ -20,13 +20,13 @@ I specialize in turning design concepts into responsive, interactive user experi
 HTML • CSS • JavaScript (ES6+) • TypeScript  
 
 **Frameworks & Libraries:**  
-React • Next.js • Tailwind CSS • Chakra UI • Redux Toolkit  
+React • Next.js • Tailwind CSS • Chakra UI • Redux Toolkit • Framer Motion  
 
 **Tools & Platforms:**  
 Git • GitHub • VS Code • Figma • Vercel • Netlify  
 
 **Other Skills:**  
-REST APIs • JSON • Responsive Design • UI/UX Implementation  
+REST APIs • JSON • UI/UX Implementation • Performance Optimization  
 
 ---
 
@@ -34,15 +34,16 @@ REST APIs • JSON • Responsive Design • UI/UX Implementation
 
 ### 🖥️ [Portfolio Website](https://devmasud.vercel.app/)
 A personal portfolio built with **Next.js** and **Tailwind CSS**, showcasing my projects and experience.  
-*Focus:* Performance, responsiveness, and accessibility.
+*Focus:* Speed, responsiveness, and accessibility.
 
-### 🎨 [UI/UX Design Landing Page](https://uxpert-theta.vercel.app/)
-A modern front-end UI/UX interface crafted with a strong focus on responsive design principles and an accessible user experience, ensuring that users across all devices and abilities can interact smoothly with intuitive layouts and optimized performance.
-*Tech:* React.js, Tailwind CSS.
+### 🎨 [Figma to React Conversion – UI/UX Landing Page](https://uxpert-theta.vercel.app/)
+Converted a detailed Figma design into a responsive React interface.  
+*Tech:* React.js, Tailwind CSS.  
+*Focus:* Pixel-perfect layout, accessibility, and optimized performance.
 
-### 🤖 [AI-powered SaaS Platform](https://convertly-nu.vercel.app/)
-A fully responsive static website designed for an AI-powered SaaS platform, built with modern front-end technologies to ensure seamless performance across all devices and enhanced accessibility for an inclusive user experience. 
-*Tech:* React.js, Radix UI, Tailwind CSS, Framer Motion.
+### 🤖 [AI SaaS Frontend](https://convertly-nu.vercel.app/)
+A static, responsive website for an AI SaaS concept — showcasing smooth animations and clean code structure.  
+*Tech:* React.js, Radix UI, Tailwind CSS, Framer Motion.  
 
 ---
 
@@ -55,11 +56,11 @@ A fully responsive static website designed for an AI-powered SaaS platform, buil
 
 ## 🤝 Let's Connect
 
-- 🌐 **Portfolio:** https://devmasud.vercel.app  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/dev-masud/  
-- 🐦 **Twitter (X):** https://x.com/DevMasud  
+- 🌐 **Portfolio:** [devmasud.vercel.app](https://devmasud.vercel.app)  
+- 💼 **LinkedIn:** [linkedin.com/in/dev-masud](https://www.linkedin.com/in/dev-masud/)  
+- 🐦 **X (Twitter):** [@DevMasud](https://x.com/DevMasud)  
 - 📧 **Email:** mohdabbakarr@gmail.com  
 
 ---
 
-> 💬 *“Building interfaces that not only look good but feel great to use.”*
+> 💬 *“Turning Figma designs into fast, pixel-perfect React apps that look good and feel great to use.”*
