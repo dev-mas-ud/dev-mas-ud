@@ -7,10 +7,10 @@ I specialize in turning design concepts into responsive, interactive user experi
 
 ## 🧩 About Me
 
-- 🎯 Passionate about creating pixel-perfect, user-friendly interfaces.  
-- 🚀 Constantly learning and exploring new front-end tools and frameworks.  
-- 🧠 Strong understanding of component-based architecture, UI/UX principles, and responsive design.  
-- 💡 I enjoy collaborating with designers and back-end developers to build seamless digital products.  
+- Passionate about creating pixel-perfect, user-friendly interfaces.  
+- Constantly learning and exploring new front-end tools and frameworks.  
+- Strong understanding of component-based architecture, UI/UX principles, and responsive design.  
+- I enjoy collaborating with designers and back-end developers to build seamless digital products.  
 
 ---
 
