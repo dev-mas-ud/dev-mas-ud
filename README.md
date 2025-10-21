@@ -55,9 +55,9 @@ Static website for ICFC - Child Care Foundation Organization built with responsi
 
 ## 🤝 Let's Connect
 
-- 🌐 **Portfolio:** [your-portfolio-link.com](https://devmasud.vercel.app)  
-- 💼 **LinkedIn:** [linkedin.com/in/yourusername](https://www.linkedin.com/in/dev-masud/)  
-- 🐦 **Twitter (X):** [twitter.com/yourhandle](https://x.com/DevMasud)  
+- 🌐 **Portfolio:** (https://devmasud.vercel.app)  
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/dev-masud/)  
+- 🐦 **Twitter (X):** (https://x.com/DevMasud)  
 - 📧 **Email:** mohdabbakarr@gmail.com  
 
 ---
