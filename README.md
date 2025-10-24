@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Masud
 
-I'm a **Frontend Developer** who specializes in turning **Figma designs into pixel-perfect, fast React/Next.js apps**.  
-I focus on crafting clean, accessible, and high-performance user interfaces using modern web technologies.
+I'm a **Front-End Developer** specializing in **React, Next.js, and TypeScript**.
+I build clean, accessible, and high-performance user interfaces that help brands deliver fast, engaging, and scalable web experiences.
 
 ---
 
 ## 🧩 About Me
 
-- I convert Figma designs into responsive, production-ready React interfaces.  
-- Passionate about clean UI, UX precision, and smooth developer handoff.  
-- Strong understanding of component-based architecture, accessibility, and responsive design.  
-- I love collaborating with designers and startups to bring ideas to life — visually and technically.  
+- I develop responsive, production-ready interfaces optimized for performance and accessibility.
+- Committed to crafting intuitive user experiences with attention to detail and consistency.
+- Skilled in component-based architecture, reusable UI patterns, and modern front-end best practices.
+- I collaborate with startups and teams to transform ideas into functional, user-centered digital products.
 
 ---
 
@@ -20,7 +20,7 @@ I focus on crafting clean, accessible, and high-performance user interfaces usin
 HTML • CSS • JavaScript (ES6+) • TypeScript  
 
 **Frameworks & Libraries:**  
-React • Next.js • Tailwind CSS • Chakra UI • Redux Toolkit • Framer Motion  
+React • Next.js • Tailwind CSS • Chakra UI • Framer Motion
 
 **Tools & Platforms:**  
 Git • GitHub • VS Code • Figma • Vercel • Netlify  
@@ -32,18 +32,19 @@ REST APIs • JSON • UI/UX Implementation • Performance Optimization
 
 ## 💼 Featured Projects
 
-### 🖥️ [Portfolio Website](https://devmasud.vercel.app/)
-A personal portfolio built with **Next.js** and **Tailwind CSS**, showcasing my projects and experience.  
-*Focus:* Speed, responsiveness, and accessibility.
+### 🤖 [AI SaaS Frontend](https://convertly-nu.vercel.app/)
+A static, responsive website for an AI SaaS concept — showcasing smooth animations and clean code structure.  
+*Tech:* React.js, Radix UI, Tailwind CSS, Framer Motion.
+*Focus:* Pixel-perfect layout, accessibility, and optimized performance.
+
+Live Demo: (https://convertly-nu.vercel.app/)
 
 ### 🎨 [Figma to React Conversion – UI/UX Landing Page](https://uxpert-theta.vercel.app/)
 Converted a detailed Figma design into a responsive React interface.  
-*Tech:* React.js, Tailwind CSS.  
+*Tech:* React.js, Tailwind CSS.
 *Focus:* Pixel-perfect layout, accessibility, and optimized performance.
 
-### 🤖 [AI SaaS Frontend](https://convertly-nu.vercel.app/)
-A static, responsive website for an AI SaaS concept — showcasing smooth animations and clean code structure.  
-*Tech:* React.js, Radix UI, Tailwind CSS, Framer Motion.  
+Live Demo: (https://uxpert-theta.vercel.app/)
 
 ---
 
@@ -63,4 +64,4 @@ A static, responsive website for an AI SaaS concept — showcasing smooth animat
 
 ---
 
-> 💬 *“Turning Figma designs into fast, pixel-perfect React apps that look good and feel great to use.”*
+> 💬 *“Turning designs into fast, pixel-perfect React apps that look good and feel great to use.”*
