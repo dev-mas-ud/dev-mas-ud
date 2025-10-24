@@ -26,7 +26,7 @@ React • Next.js • Tailwind CSS • Chakra UI • Framer Motion
 Git • GitHub • VS Code • Figma • Vercel • Netlify  
 
 **Other Skills:**  
-REST APIs • JSON • UI/UX Implementation • Performance Optimization  
+REST APIs • JSON • Python • MySQL • Performance Optimization  
 
 ---
 
@@ -39,7 +39,7 @@ A static, responsive website for an AI SaaS concept — showcasing smooth animat
 
 Live Demo: (https://convertly-nu.vercel.app/)
 
-### 🎨 [Figma to React Conversion – UI/UX Landing Page](https://uxpert-theta.vercel.app/)
+### 🎨 [UI/UX Business Landing Page](https://uxpert-theta.vercel.app/)
 Converted a detailed Figma design into a responsive React interface.  
 *Tech:* React.js, Tailwind CSS.
 *Focus:* Pixel-perfect layout, accessibility, and optimized performance.
