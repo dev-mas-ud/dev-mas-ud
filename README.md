@@ -1,6 +1,6 @@
 # Hi, I'm Masud
 
-I'm a **Front-End Developer** specializing in **React, Next.js, and TypeScript**.
+I'm a Front-End Developer specializing in React, Next.js, and TypeScript.
 I build clean, accessible, and high-performance user interfaces that help brands deliver fast, engaging, and scalable web experiences.
 
 In addition to my front-end expertise, I also have solid full-stack skills in
