@@ -3,10 +3,9 @@
 I'm a Front-End Developer specializing in React, Next.js, and TypeScript.
 I build clean, accessible, and high-performance user interfaces that help brands deliver fast, engaging, and scalable web experiences.
 
-In addition to my front-end expertise, I also have solid full-stack skills in
-Node.js, Express, Python, and databases such as MongoDB and MySQL.
-This enables me to manage projects end-to-end — from designing
-smooth UI to building scalable backends.
+In addition to my front-end expertise, I also have solid full-stack skills in Node.js, Express, Python, and databases such as MongoDB and MySQL.
+
+This enables me to manage projects end-to-end — from designing smooth user interfaces to building scalable backends.
 
 ---
 
