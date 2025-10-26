@@ -25,7 +25,7 @@ smooth UI to building scalable backends.
 HTML • CSS • JavaScript (ES6+) • TypeScript  • Python  
 
 **Frameworks & Libraries:**  
-React • Next.js • Tailwind CSS • Chakra UI •  Shadcn UI • Framer Motion • Node.js • Express
+React • Next.js • Tailwind CSS • Chakra UI •  Shadcn UI • Framer Motion • Express • Node.js
 
 **Tools & Platforms:**  
 Git • GitHub • VS Code • Figma • Vercel • Netlify  • AWS  
