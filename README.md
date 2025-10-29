@@ -35,28 +35,28 @@ REST APIs • JSON • MongoDB • MySQL • AI Integration
 
 ## Featured Projects
 
-### [AI SaaS Frontend](https://convertly-nu.vercel.app/)
+### [AI SaaS Frontend](https://github.com/dev-mas-ud/convertly)
 A static, responsive website for an AI SaaS concept — showcasing smooth animations and clean code structure.  
 *Tech:* React.js, Radix UI, Tailwind CSS, Framer Motion.
 *Focus:* Pixel-perfect layout, accessibility, and optimized performance.
 
 Live Demo: (https://convertly-nu.vercel.app/)
 
-### [EC2 Cloud Cost Analyzer](https://ec2-observe.vercel.app/)
+### [EC2 Cloud Cost Analyzer](https://github.com/dev-mas-ud/ec2-observer)
 AWS EC2 Cloud Cost Analyzer is a tool that helps you analyze the cost of your AWS EC2 instances. It is a web application that allows you to view the cost of your AWS EC2 instances and compare them with the cost of other AWS EC2 instances. 
 *Tech:* Next.js, Shadcn UI, Tailwind CSS, TypeScript, AWS EC2, AWS CloudWatch.
 *Focus:* Pixel-perfect layout, accessibility, and optimized performance.
 
 Live Demo: (https://ec2-observe.vercel.app/)
 
-### [UI/UX Business Landing Page](https://uxpert-theta.vercel.app/)
+### [UI/UX Business Landing Page](https://github.com/dev-mas-ud/uxpert)
 Converted a detailed Figma design into a responsive React interface.  
 *Tech:* React.js, Tailwind CSS.
 *Focus:* Pixel-perfect layout, accessibility, and optimized performance.
 
 Live Demo: (https://uxpert-theta.vercel.app/)
 
-### [Mini Otio - AI Research Assistant](https://mini-otio.vercel.app/)
+### [Mini Otio - AI Research Assistant](https://github.com/dev-mas-ud/mini-otio)
 A modern AI-powered research assistant that combines real-time web search with intelligent response generation. Users can ask research questions and receive comprehensive, streamed responses with multiple formatting options (step-by-step, bullet points, ELI5).   
 *Tech:* Next.js, Tailwind CSS, TypeScript, Zustand, Shadcn UI, AI SDK, OpenRouter API, EXa.ai.
 *Focus:* Pixel-perfect layout, accessibility, and optimized performance.
